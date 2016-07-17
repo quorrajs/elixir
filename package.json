@@ -1,0 +1,30 @@
+{
+  "name": "@posirton/elixir",
+  "version": "0.0.1",
+  "description": "Gulp helper for QuorraJS",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quorrajs/elixir.git"
+  },
+  "keywords": [
+    "quorrajs",
+    "quorra",
+    "positron",
+    "gulp"
+  ],
+  "author": "Harish Anchu <harishanchu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quorrajs/elixir/issues"
+  },
+  "homepage": "https://github.com/elixir/mash",
+  "dependencies": {
+    "lodash": "^4.13.1",
+    "require-dir": "^0.3.0"
+  },
+  "peerDependencies": {
+    "laravel-elixir": "^6.0.0-9"
+  }
+}
