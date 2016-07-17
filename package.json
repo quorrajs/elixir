@@ -1,5 +1,5 @@
 {
-  "name": "@posirton/elixir",
+  "name": "@positron/elixir",
   "version": "0.0.1",
   "description": "Gulp helper for QuorraJS",
   "main": "index.js",
